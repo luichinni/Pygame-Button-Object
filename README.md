@@ -1,5 +1,5 @@
 # Pygame-Button-Object
-Este proyecto es una clase botón que permite al usuario generar botones al utilizar el módulo pygame, pudiendo generarlos con imagenes o colores lisos, con o sin texto dentro, asi como la posibilidad de asignar funciones a cada botón generado.
+Este proyecto es una clase botón que permite al usuario generar botones al utilizar el módulo pygame de python 3.6 o superior (Puede llegar a funcionar en 3.X en general), pudiendo generarlos con imagenes o colores lisos, con o sin texto dentro, asi como la posibilidad de asignar funciones a cada botón generado.
 Se utilizó python con su módulo pygame ya que es un lenguaje relativamente sencillo de aprender y desarrollar en una institución educativa.
 
 ## ¿Como usarla?
@@ -61,4 +61,4 @@ Estos argumentos claves son:
   - **.presion(posicion_raton,ventana)**: tomando como parámetros la posicion del raton y la ventana que estamos usando para el botón, nos devolverá True o False dependiendo si presionamos el botón, haciendo la animación (en caso de estar activa) y ejecutando (si tiene) la función asignada.
   
 # Créditos
-Esta clase fue hecha en conjunto entre Macias Luciano (github user: luichinni) y Payajo Shein (github user: Shein-P)
+Esta clase fue hecha en conjunto entre Macias Luciano (GitHub user: luichinni) y Payajo Shein (GitHub user: Shein-P)

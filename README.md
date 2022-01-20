@@ -47,7 +47,10 @@ Estos argumentos claves son:
   
   - **image**: este parametro toma un objeto tipo pygame.image y lo escala dentro del botón de forma por defecto.
   
-  - **imgSize**: al establecer en True este parametro, el botón tomará el tamaño de la imagen asignada anteriormente, cabe destacar que luego de asignar en verdadero este parámetro, no puede deshacerse el reescalado del botón, la unica forma es cambiando el ancho y alto como "nombre_variable.ancho,nombre_variable.alto=tamaño_ancho,tamaño_alto".
+  - **imgSize**: al establecer en True este parametro, el botón tomará el tamaño de la imagen asignada anteriormente, cabe destacar que luego de asignar en verdadero este parámetro, no puede deshacerse el reescalado del botón, la unica forma es cambiando el ancho y alto como: 
+  ```
+  nombre_variable.ancho,nombre_variable.alto=tamaño_ancho,tamaño_alto
+  ```
   
 ## Funciones del objeto
 
